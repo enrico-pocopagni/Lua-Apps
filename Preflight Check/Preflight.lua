@@ -42,7 +42,7 @@ local appName="Preflight Check"
 local selectboxes={} 
 local checkboxes={}
 local currentForm=0
-local MAX_ITEMS = 20
+local MAX_ITEMS = 25
 local lastSwitchValue=true
 
 --------------------------------------------------------------------
